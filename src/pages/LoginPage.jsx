@@ -87,7 +87,7 @@ function LoginPage() {
         </form>
 
         <p className={styles.hint}>
-          Try: daniel@simplesystems.io / password123
+          For AIEFT01 Module 4 assignment.
         </p>
       </div>
     </div>
